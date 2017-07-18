@@ -57,6 +57,7 @@ export default class MaterialSwitch extends Component {
   }
 
   padding = 2
+  start = {}
 
   constructor (props) {
     super(props)
